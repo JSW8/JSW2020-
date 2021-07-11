@@ -62,4 +62,3 @@
 618动物联萌收集金币 = type=cron,cronexp=0-59/30 * * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_zooCollect.js
 [MITM]
 hostname = %APPEND% me-api.jd.com, draw.jdfcloud.com, jdjoy.jd.com, account.huami.com
-	◦	
